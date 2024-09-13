@@ -1,5 +1,12 @@
 # @fixtures/template-string-paths
 
+## 0.0.9
+
+### Patch Changes
+
+- Updated dependencies [[`cd9d8b231bbd7a7ac6674d2b28f77cff93e5be9e`](https://github.com/vanilla-extract-css/vanilla-extract/commit/cd9d8b231bbd7a7ac6674d2b28f77cff93e5be9e)]:
+  - @vanilla-extract/css@1.16.0
+
 ## 0.0.8
 
 ### Patch Changes

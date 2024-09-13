@@ -1,5 +1,12 @@
 # @vanilla-extract/vite-plugin
 
+## 4.0.16
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @vanilla-extract/integration@7.1.10
+
 ## 4.0.15
 
 ### Patch Changes

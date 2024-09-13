@@ -1,6 +1,6 @@
 {
   "name": "@fixtures/thirdparty-dep-dep",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "exports": {
     ".": {
       "import": "./index.mjs"

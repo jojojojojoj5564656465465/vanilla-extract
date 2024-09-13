@@ -1,5 +1,12 @@
 # @vanilla-extract/webpack-plugin
 
+## 2.3.14
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @vanilla-extract/integration@7.1.10
+
 ## 2.3.13
 
 ### Patch Changes

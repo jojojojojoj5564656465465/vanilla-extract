@@ -1,5 +1,12 @@
 # @vanilla-extract/esbuild-plugin
 
+## 2.3.11
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @vanilla-extract/integration@7.1.10
+
 ## 2.3.10
 
 ### Patch Changes

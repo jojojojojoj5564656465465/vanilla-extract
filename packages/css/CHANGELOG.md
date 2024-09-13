@@ -1,5 +1,11 @@
 # @vanilla-extract/css
 
+## 1.16.0
+
+### Minor Changes
+
+- [#1475](https://github.com/vanilla-extract-css/vanilla-extract/pull/1475) [`cd9d8b231bbd7a7ac6674d2b28f77cff93e5be9e`](https://github.com/vanilla-extract-css/vanilla-extract/commit/cd9d8b231bbd7a7ac6674d2b28f77cff93e5be9e) Thanks [@corradopetrelli](https://github.com/corradopetrelli)! - Add `::-webkit-calendar-picker-indicator` as a valid pseudo-element
+
 ## 1.15.5
 
 ### Patch Changes

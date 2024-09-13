@@ -10,7 +10,7 @@
     "webpack",
     "react"
   ],
-  "version": "0.0.34",
+  "version": "0.0.35",
   "main": "src/index.ts",
   "author": "SEEK",
   "scripts": {
