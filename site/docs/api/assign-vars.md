@@ -93,4 +93,14 @@ export const responsiveTheme = style({
     }
   }
 });
+
+export const btn = style({
+  minWidth:vars.space.small,
+  color:vars.color.brand
+})
+
+// app.tsx
+<div class={responsiveTheme}>
+  <p class={btn}>hello</p>
+</div>
 ```
